@@ -10,7 +10,7 @@
             out.print("<div class=\"noticia span4\">");
                 out.print("<h3>" + n.getTitulo() + "</h3>" );
                 out.print("<p>" + n.getDescricao() + "</p>" );
-                out.print(" <a href=\"#\">mais +</a>" );
+                out.print(" <a href=\"#\">4º ALTERAÇÃO</a>" );
             out.print("</div>");
         }
     %>
